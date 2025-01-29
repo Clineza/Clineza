@@ -1,12 +1,12 @@
 ## From Web to Assembly
 
-Hello! My name is **Oliver**. With one year of experience in software testing and another in IT Help Desk, I've gained a broad understanding of technology from a practical perspective. However, my true **passion** lies in the deeper realms of computing technology.
+Hello! My name is **Oliver**. With **one year of experience** in **software testing** and another in **IT Help Desk**, I've gained a **broad understanding** of technology from a practical perspective. However, my true **passion** lies in the **deeper realms** of computing technology.
 
-My tech journey started in high school with learning **Java**, then continued in college with **web programming**, where I mastered the fundamentals of **JavaScript, HTML, CSS, and PHP**. This foundation, though exciting, left me yearning for more insight into how computers function beyond the **abstractions** of web development. 
+My **tech journey started** in high school with learning **Java**, then continued in **college** with **web programming**, where I learned the **fundamentals** of **JavaScript, HTML, CSS,** and **PHP**. This foundation, though exciting, left me **yearning for more insight** into how computers function beyond the **abstractions** of **web development**. 
 
-My curiosity led me to explore **how assembly language operates**, which is a step closer to the **machine code** that directly controls hardware. This led me to study the **6502 processor**, which is a popular chip from the **1970s** known for its affordability and strong performance. I continue to apply this knowledge in **developing games** for the **NES**, exploring the capabilities of the **6502 processor**.
+My **curiosity** led me to explore **how assembly language operates**, which is a step closer to the **machine code** that directly controls **hardware**. This led me to study the **6502 processor**, which is a **popular chip** from the **1970s** known for its **affordability** and **strong performance**. I continue to apply this knowledge in **developing games** for the **NES**, exploring the capabilities of the **6502 processor**.
 
-I am now delving into **questions** like how **data** is stored in **SSDs**, what **memory addresses** are, the fundamentals of **binary**, and the **role of transistors** in computing—all driven by a desire to program at the **lowest levels**. Each day, I am committed to expanding my knowledge of computers, aiming to **bridge the gap** between **high-level** software and the **underlying hardware** that powers our **digital world**.
+I am now delving into **questions** like how **data** is stored in **SSDs**, what **memory addresses** are, the fundamentals of **binary**, and the **role of transistors** in computing—all driven by a desire to program at the **lowest levels**. Each day, I am committed to expanding my **knowledge of computers**, aiming to **bridge the gap** between **high-level** software and the **underlying hardware** that powers our **digital world**.
 
 
 ## :necktie: Currently working on...
